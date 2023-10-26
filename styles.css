@@ -1,0 +1,82 @@
+.container
+{
+height:100px;
+border-radius:500px
+}
+
+.row {
+    display: flex;
+    width:25%;
+    height:80%;
+    background-color: 0px 0px 20px 0px rgba(83, 14, 14, 0.8);
+    border-radius: 75px;
+    border-style: ridge;
+}
+
+.box1  {
+    background-color: green;
+    width:100%;
+    border-radius: 25px;
+    border-style: ridge;
+
+}
+.box2 {
+    background-color: blue;
+    width:100%;
+    border-radius: 25px;
+    border-style: ridge;
+    
+
+
+}
+.box3 {
+    background-color: orange;
+    width:100%;
+    border-radius: 25px;
+    border-style: ridge;
+    
+
+}
+.box4 {
+    background-color: red;
+    width:100%;
+    border-radius: 25px;
+    border-style: ridge;
+
+}
+.box5 {
+    background-color: yellow;
+    width:100%;
+    border-radius: 25px;
+    border-style: ridge;
+
+}
+.box6 {
+    background-color: violet;
+    width:100%;
+    border-radius: 25px;
+    border-style: ridge;
+
+}
+.box7 {
+    background-color: brown;
+    width:100%;
+    border-radius: 25px;
+    border-style: ridge;
+
+}
+.box8 {
+    background-color: maroon;
+    width:100%;
+    border-radius: 25px;
+    border-style: ridge;
+
+}
+.box9 {
+    background-color: purple;
+    width:100%;
+    border-radius: 25px;
+    border-style: ridge;
+
+}
+

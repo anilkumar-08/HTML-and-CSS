@@ -1,0 +1,44 @@
+<DOCTYPE HTML5>
+<html>
+<head>
+<title>Welcome to my Web Page</title>
+</head>
+<body style = "background-color:lightblue;" >
+<h1>anilkumargajam123@gmail.com</h1>
+<h2>+91 8688198509</h2>
+<p> This is Anil Kumar iam very excited to learn the html which is uesful in web development </p>
+</body>
+</html> 
+<head>
+<meta charset="UTF-8">
+<title>CatPhotoApp</title>
+</head>
+<body>
+<main>
+<h1>Hyderabad</h1> 
+<section>
+<h2>Charminar</h2>
+</section>
+<figure>
+<a href="https://www.google.com/search?sca_esv=562495075&rlz=1C1GCEU_enIN1074IN1074&q=charminar&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi9sM2-15CBAxUDT2wGHbNDDpEQ0pQJegQIDhAB&biw=1280&bih=571&dpr=1.5"><img src="charminar.jpg" alt="A slice of lasagna on a plate"></a>
+<figcaption> For More <em>click </em> on the image</figcaption>
+<section>
+<h2>Famous Places</h2>
+<h3>Places to visit in hyderabad:</h3>
+<ul>
+<li>Tank Bund</li>
+</ul>
+<img src="tankbund.jpg"</img>
+<ul>
+<li>Golkonda</li>
+</ul>
+<img src="golkonda.jpg"</img>
+<h3>Famous Food in Hyderabad:</h3>
+<ol>
+<li>Biryani</li>
+<figure>
+<img src="biryani.jpg"</img>
+<li>Malai Chai</li>
+<img src="malaichai.jpg"</img>
+<li>Mutton Paya</li>
+<img src="muttonpaya.jpg"</img>
